@@ -1,0 +1,9 @@
+global variables and static variables are in the heap
+
+stack(first in last out)
+
+program strat from the main function 
+the variables and references are store in the stack, even if it met a function it will put the refernces in it to the stack 
+and after run the function it will be cleared from the program and varibles of it will be cleared from the stack 
+
+pointer -> address
